@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b3daff; /* Light Blue Background */
+    color: #333;
+    text-align: justify;
+    margin: 20px;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    margin: auto;
+}
+
+.next {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.next:hover {
+    text-decoration: underline;
+}
